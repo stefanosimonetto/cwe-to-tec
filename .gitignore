@@ -1,6 +1,7 @@
 
 *.pkl
 *.json
+*.xml
 cves/output_with_embeddings.json
 cve_embed/cve_descr.json
 # Ignore all .json files matching the years 1999-2024 in any path
